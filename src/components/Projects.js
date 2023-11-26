@@ -90,7 +90,7 @@ const Projects = () => {
           </Col>
         </Row>
       </Container>
-      <img className="background-img-right" src={colorSharp2} />
+      <img className="background-image-right" src={colorSharp2} />
     </section>
   );
 };
